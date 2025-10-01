@@ -17,6 +17,8 @@ intro:
 
 ## Title
 
-Body
+Park Si Young
+Department of AI
+Gwangju
 
 ![collegeofcomputing](/assets/images/collegeofcomputing.jpg)
